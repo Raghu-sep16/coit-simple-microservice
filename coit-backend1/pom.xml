@@ -45,14 +45,14 @@
 	</build>
 	<distributionManagement>
 		<repository>
-			<id>petclinic-release</id>
-			<name>petclinic-release</name>
-			<url>http://15.206.159.251:8081/repository/petclinic-release/</url>
+			<id>backend1-release</id>
+			<name>backend1-release</name>
+			<url>http://15.206.159.251:8081/repository/backend1-release/</url>
 		</repository>
 		<snapshotRepository>
-			<id>petclinic-snapshot</id>
-			<name>petclinic-snapshot</name>
-			<url>http://15.206.159.251:8081/repository/petclinic-snapshot/</url>
+			<id>backend1-snapshot</id>
+			<name>backend1-snapshot</name>
+			<url>http://15.206.159.251:8081/repository/backend1-snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
